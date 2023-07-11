@@ -1,0 +1,53 @@
+nav ul li{
+    display: inline;
+    padding: 50px;
+}
+nav ul li a{
+    color:rgb(229, 232, 45);
+}
+header{
+    text-align: center;
+    color:rgb(228, 236, 243);
+    padding:10px;
+}
+header{
+    background-color:rgb(27, 50, 142);
+}
+body{
+    background-color:rgb(66, 181, 201);
+}
+#Home{
+    text-align: left;
+
+}
+img{
+    margin-left: 2%;
+    border-radius:1px;
+}
+#About us{
+    text-size-adjust: 40px;
+    text-align: left;
+}
+#Vision{
+    margin:0px 45px 0px 45px;
+    border-radius:1px;
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(65, 91, 185);
+}
+#Reviews{
+    
+    text-align: center;
+    display: inline;
+    padding: 50px;
+}
+#Contact us{
+    text-align:center;
+}
+footer{
+    text-align: center;
+    color:rgb(225, 231, 236);
+    background-color:rgb(123, 60, 81);
+    padding: 250px;
+    padding: 20px;
+}
